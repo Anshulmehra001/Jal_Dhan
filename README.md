@@ -58,7 +58,7 @@ Jal-Dhan is more than an app; it's a vehicle for economic and environmental tran
 *   **Alignment with NABARD's Mission:** Directly supports the rural economy by creating data-driven, climate-resilient financial products for farmers.
 
 ## ⚙️ How to Run This Prototype
-1.  Clone this repository: `git clone [your-repo-url]`
+1.  Clone this repository: git clone https://github.com/Anshulmehra001/Jal_Dhan.git
 2.  Open the project in the latest version of Android Studio.
 3.  Allow Gradle to sync and download all dependencies.
 4.  Run the app on a physical Android device or an emulator.
